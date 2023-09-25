@@ -1,0 +1,5 @@
+{
+  "swVersion": "11",
+  "swURL": "https://raw.githubusercontent.com/menezesbrafael90/firmwares/main/battery_luna2000_controller_v12.ino.esp32.bin"
+}
+
