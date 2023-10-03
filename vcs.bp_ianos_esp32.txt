@@ -1,5 +1,1 @@
-{
-  "swVersion": "13",
-  "swURL": "https://raw.githubusercontent.com/menezesbrafael90/firmwares/main/battery_luna2000_controller_v13.ino.esp32.bin"
-}
 
