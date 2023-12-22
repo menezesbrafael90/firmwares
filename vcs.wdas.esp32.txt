@@ -1,0 +1,6 @@
+{
+  "swVersion":"40",
+  "swURL": "https://raw.githubusercontent.com/menezesbrafael90/firmwares/main/wifi_data_acquisition_systems_v40.ino.esp32.bin"
+}
+
+                                                                    
